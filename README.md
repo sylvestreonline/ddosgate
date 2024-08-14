@@ -5,4 +5,4 @@ le firewall embarqué des systèmes unix/linux, pour dropper les paquets.
 Mais avant, le programme vérifie que l'entrée n'existe pas avant toute nouvelle injection IPTABLES.
 
 Dès détection de l'attaque, le programme envoi une notification d'alerte à l'administrateur par API sécurisée TELEGRAM dans un groupe chatbot préalablement crée pour la circonstance.
-Tous les évènement sont logués dans le fichier de log ddo_protection.log
+Tous les évènement sont logués dans le fichier de log ddos_protection.log
